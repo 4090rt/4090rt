@@ -13,7 +13,7 @@
 - [FileConverter](https://github.com/4090rt/FileConverter) - Конвертер файлов
 - [DirectoryStatistic](https://github.com/4090rt/DirectoryStatistic) - Статистика директорий
 - [TelegramConvertation](https://github.com/4090rt/TelegramConvertation) - Конвертация для Telegram
-
+- [FinanceTrack](https://github.com/4090rt/FInanceTrack) - Ручной учет финансов
 ## 📈 Статистика GitHub
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=4090rt&show_icons=true&theme=radical)
 
