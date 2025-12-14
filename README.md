@@ -1,4 +1,4 @@
-<img width="873" height="846" alt="image" src="https://github.com/user-attachments/assets/10a51117-7714-44e2-9ba2-4f1d7e9253e3" /># Привет, я [4090rt] 👋
+# Привет, я [4090rt] 👋
 
 ## 🛠️ Мой стек технологий
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
