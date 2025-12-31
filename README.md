@@ -11,7 +11,7 @@
 
 ## 📂 Мои проекты
 - [FileConverter](https://github.com/4090rt/FileConverter) - Конвертер файлов
-- [DirectoryStatistic](https://github.com/4090rt/DirectoryStatistic) - Статистика директорий
+- [DirectoryStatistic](https://github.com/4090rt/DirectoryStatistic) - Статистика о вашем пк! релиз версии v1.0.0
 - [TelegramConvertation](https://github.com/4090rt/TelegramConvertation) - Конвертация для Telegram
 - [FinanceTrack](https://github.com/4090rt/FInanceTrack) - Ручной учет финансов
 ## 📈 Статистика GitHub
