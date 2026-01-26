@@ -14,6 +14,7 @@
 - [DirectoryStatistic](https://github.com/4090rt/DirectoryStatistic) - Статистика о вашем пк! релиз версии v1.0.0
 - [TelegramConvertation](https://github.com/4090rt/TelegramConvertation) - Конвертация для Telegram
 - [FinanceTrack](https://github.com/4090rt/FInanceTrack) - Ручной учет финансов
+- [TelegramNewBot](https://github.com/4090rt/TelegramNewsBot) - Бот собирающий актуальные новости прямо в телеграмм
 ## 📈 Статистика GitHub
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=4090rt&show_icons=true&theme=radical)
 
